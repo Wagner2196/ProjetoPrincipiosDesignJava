@@ -1,0 +1,8 @@
+Ana;144.0
+Carlos;90.0
+Ana;144.0
+Carlos;90.0
+Ana;144.0
+Carlos;90.0
+Ana;144.0
+Carlos;90.0
